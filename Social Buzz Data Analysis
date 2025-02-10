@@ -1,0 +1,36 @@
+# Social Buzz Data Analysis
+
+## Overview
+Social Buzz is a rapidly growing technology unicorn that generates an overwhelming amount of content daily. With over 100,000 posts per day and 36.5 million pieces of content annually, the company faced the challenge of capitalizing on this vast data to enhance user engagement and prepare for a successful IPO.
+
+## Problem Statement
+The primary challenge was the sheer volume of content generated daily. With over 100,000 posts per day, Social Buzz needed a structured approach to analyze and derive actionable insights from this data.
+
+## Process
+The project followed a structured data analysis process:
+1. **Data Understanding**
+2. **Data Cleaning**
+3. **Data Modeling**
+4. **Data Analysis**
+5. **Uncover Insights**
+
+## Insights
+### Top 5 Categories by Aggregate Popularity Score:
+- Animals: 76,000
+- Science: 74,000
+- Healthy Eating: 72,000
+- Technology: 70,000
+- Food: 68,000
+
+### Popularity Percentage Share from Top 5 Categories:
+- Animals: 21%
+- Science: 20%
+- Technology: 20%
+- Healthy Eating: 20%
+- Food: 19%
+
+## Summary
+The analysis highlighted that "Animals" and "Science" are the most popular content categories, indicating a user preference for real-life and factual content.
+
+## Next Steps
+Implementing a large-scale production system will enable Social Buzz to continuously monitor and adapt to user preferences.
